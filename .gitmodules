@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:lugor/lugor.github.io.git
