@@ -26,8 +26,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-MENU_ITEMS = (('lugor-discuss', 'http://list.xcski.com/mailman/listinfo/lugor-discuss'),
-         ('lugor-announce', 'http://list.xcski.com/mailman/listinfo/lugor-announce'),)
+# MENU_ITEMS = (('lugor-discuss', 'http://list.xcski.com/mailman/listinfo/lugor-discuss'),
+#         ('lugor-announce', 'http://list.xcski.com/mailman/listinfo/lugor-announce'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
