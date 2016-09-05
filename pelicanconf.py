@@ -6,6 +6,12 @@ AUTHOR = u'lugor'
 SITENAME = u'Lugor'
 SITEURL = ''
 
+THEME = u'alchemy'
+PAGES_ON_MENU = True
+CATEGORIES_ON_MENU = False
+SITE_SUBTEXT = u'Linux User Group of Rochester'
+PROFILE_IMAGE = u'/images/badge.png'
+
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
@@ -20,10 +26,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+MENU_ITEMS = (('lugor-discuss', 'http://list.xcski.com/mailman/listinfo/lugor-discuss'),
+         ('lugor-announce', 'http://list.xcski.com/mailman/listinfo/lugor-announce'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
