@@ -14,6 +14,8 @@ PROFILE_IMAGE = u'/images/badge.png'
 
 PATH = 'content'
 
+GOOGLE_ANALYTICS = 'UA-83796726-1'
+
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'

@@ -14,6 +14,9 @@ SITEURL = 'http://www.lugor.org'
 # SITEURL = 'https://lugor.org'
 RELATIVE_URLS = False
 
+#Google Analytics
+GOOGLE_ANALYTICS_ID = 'UA-83796726-1'
+
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
