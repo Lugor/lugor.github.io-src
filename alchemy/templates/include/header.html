@@ -15,7 +15,7 @@
           <li><a class="nodec" href="{{ link }}" target="_blank">{{ title }}</a></li>
         {% endfor %}
         {% if PAGES_ON_MENU %}
-          {% for p in PAGES %}
+          {% for p in pages %}
             {% if loop.first %}
               <li class="muted">|</li>
             {% endif %}
