@@ -12,5 +12,5 @@ In cooperation with several other groups, LUGOR hosted a Linux Workshop on third
 
 With Interlock's closure of that location in late autumn 2019 those workshops moved to local public library meeting rooms for a couple of months.
 
-Please see `the mailing lists <{filename}/pages/maillist.rst>`_ for further details about meetings (occasionally they are cancelled or moved).
+Please see `the mailing list <{filename}/pages/maillist.rst>`_ for further details about meetings (occasionally they are cancelled or moved).
 
