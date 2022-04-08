@@ -1,15 +1,10 @@
-Mailing Lists
+Mailing List
 #############
 
-:title: Mailing Lists
-:date: 2016-09-05
+:title: Mailing List
+:date: 2022-04-08 10:21
 
-LUGOR has to different several maling lists:
+LUGOR has a `mailing list <https://ssl.rd1.net/mail-man/listinfo/lugor>`_.
 
-`lugor discuss <http://list.xcski.com/mailman/listinfo/lugor-discuss>`_.
+In case you wonder what happened to the previous lists, list management `moved in early 2022 <https://web.archive.org/web/20220218145522/http://list.xcski.com/pipermail/lugor-public/2022-February/000053.html>`_.
 
-`lugor announce <http://list.xcski.com/mailman/listinfo/lugor-announce>`_.
-
-`lugor public <http://list.xcski.com/mailman/listinfo/lugor-public>`_.
-
-`lugor new users <http://list.xcski.com/mailman/listinfo/lugor-newbie>`_.
