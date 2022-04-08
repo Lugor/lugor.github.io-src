@@ -12,7 +12,7 @@ The old lists have been removed from `their previous location <http://list.xcski
 
 To subscribe to the new list, please see `the list information page <https://ssl.rd1.net/mail-man/listinfo/lugor>`_. 
 
-Thanks are due Paul for perservering all these years in keeping the old
+Thanks are due Paul for persevering all these years in keeping the old
 lists running and for gracefully bowing out from that work, and to Ralph for
 stepping up to offer hosting and administration for the new list.
 
