@@ -1,8 +1,8 @@
-Mailing Lists
+Mailing List
 #############
 
-:title: Mailing Lists
-:date: 2022-04-08 10:10
+:title: Mailing List
+:date: 2022-04-08 10:21
 
 LUGOR has a `mailing list <https://ssl.rd1.net/mail-man/listinfo/lugor>`_.
 
